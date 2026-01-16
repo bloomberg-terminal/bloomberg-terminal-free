@@ -1,0 +1,50 @@
+Screen {
+    background: #000000;
+    color: #ffb000;
+}
+
+Header {
+    background: #1a1a1a;
+    color: #ffb000;
+    dock: top;
+}
+
+Footer {
+    background: #1a1a1a;
+    color: #ffb000;
+    dock: bottom;
+}
+
+#sidebar {
+    dock: left;
+    width: 20;
+    background: #0a0a0a;
+    border-right: solid #333;
+}
+
+#main-window {
+    border: solid #ffb000;
+    padding: 1;
+    height: 100%;
+}
+
+Input {
+    dock: bottom;
+    border: solid #ffb000;
+    color: #ffb000;
+    background: #000000;
+}
+
+Input:focus {
+    border: double #ffffff;
+}
+
+.title {
+    text-style: bold;
+    color: #ff8800;
+}
+
+DataTable {
+    background: #000000;
+    color: #ffb000;
+}
