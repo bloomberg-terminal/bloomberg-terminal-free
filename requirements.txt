@@ -1,0 +1,6 @@
+textual
+rich
+yfinance
+pandas
+requests
+plotext
