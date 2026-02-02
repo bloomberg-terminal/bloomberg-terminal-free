@@ -70,7 +70,7 @@ The easiest way, no Python installation required.
 1. Go to the **[Releases](../../releases)** section.
 2. Download the archive for your OS:
 > * Windows: `bbg_free_x64.7z`
-> * macOS: `bbg_free_mac_m1.dmg`
+> * macOS: `bbg_free_macOS.dmg`
 
 3. Unzip and run the `terminal` executable.
 
